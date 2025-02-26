@@ -1,0 +1,17 @@
+body {
+    padding: 10px;
+    text-align: center;
+    background-color: bisque;
+    font-size: 30px;
+}
+h3 {
+    color: grey;
+}
+img {
+    width: 302.4px;
+    height: 403.2px;
+}
+p{
+    width: 50%;
+    margin: auto;
+}
